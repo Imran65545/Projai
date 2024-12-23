@@ -356,6 +356,7 @@ body.show-chatbot .chatbot-popup{
 
   @media (max-width: 520px) {
     body{
+        background-image: url("b1.gif");
         background-size: cover;
         background-repeat: no-repeat;
     }
@@ -365,7 +366,7 @@ body.show-chatbot .chatbot-popup{
     }
     .chatbot-popup {
       right: 0;
-      bottom: 0px;
+      bottom: 0;
       height: 89vh;
       border-radius: 0;
       width: 100vw;
