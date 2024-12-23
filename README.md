@@ -1,1 +1,1 @@
-# Projai
+# This is Real Time Ai Chatbot project

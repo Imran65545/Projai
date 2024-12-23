@@ -53,7 +53,7 @@ body.show-chatbot #chatbot-togler span:last-child{
 .chatbot-popup {
     position: absolute;
     right: 40%;
-    bottom: 115px;
+    bottom: 90px;
     width: 420px;
     overflow: hidden;
     background: #fff;
@@ -365,7 +365,7 @@ body.show-chatbot .chatbot-popup{
     }
     .chatbot-popup {
       right: 0;
-      bottom: 64px;
+      bottom: 0px;
       height: 89vh;
       border-radius: 0;
       width: 100vw;
